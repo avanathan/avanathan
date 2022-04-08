@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on AuthZ for QuickBooks Online
-- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/avanathan/)
-- 📖 [My thoughts](https://bytesunlimited.org/)
+- 🔭  I’m currently working on AuthZ for QuickBooks Online
+- 📖  My[Resume](https://github.com/avanathan/resume/blob/master/ArunAvanathan_v04072022.pdf)
+- 📫  Reach me at [LinkedIn](https://www.linkedin.com/in/avanathan/)
+- 💬  [My thoughts](https://bytesunlimited.org/)
 
 <!--
 **avanathan/avanathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
