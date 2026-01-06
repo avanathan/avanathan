@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭  I’m currently working on AuthZ for QuickBooks Online
+- 🔭  I’m currently leading Identity domain for Intuit Mailchimp
 - 📖  My [Resume](https://github.com/avanathan/resume/blob/master/ArunAvanathan_v12242025.pdf) 
 - 📫  Reach me at [LinkedIn](https://www.linkedin.com/in/avanathan/)
 - 🌱  My [bookmarks](https://github.com/avanathan/Bookmarks/wiki)
